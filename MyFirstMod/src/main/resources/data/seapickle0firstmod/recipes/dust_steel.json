@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "seapickle0firstmod:dust_iron"
+        },
+        "S": {
+            "item": "seapickle0firstmod:dust_carbon"
+        }
+    },
+    "result": {
+        "item": "seapickle0firstmod:dust_steel",
+        "count": 1
+    }
+}

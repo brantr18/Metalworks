@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "seapickle0firstmod:dust_steel"
+    },
+    "result": "seapickle0firstmod:ingot_steel",
+    "experience": 0.5,
+    "cookingtime": 100
+}

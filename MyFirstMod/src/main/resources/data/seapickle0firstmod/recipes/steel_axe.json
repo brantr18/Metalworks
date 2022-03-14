@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ss ",
+        "s/ ",
+        " / "
+    ],
+    "key": {
+        "s": {
+            "item": "seapickle0firstmod:ingot_steel"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "seapickle0firstmod:steel_axe",
+        "count": 1
+    }
+}
